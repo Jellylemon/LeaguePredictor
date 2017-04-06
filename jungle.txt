@@ -1,0 +1,64 @@
+jungle
+
+***************** Tier 1 *****************
+Ivern                    54.08
+Nocturne                 54.08
+Shaco                    53.69
+Quinn                    53.08
+Rammus                   52.6
+Graves                   52.25
+
+
+***************** Tier 2 *****************
+Jax                      51.73
+Vi                       51.47
+Skarner                  51.4
+Jarvan IV                51.37
+Shyvana                  51.29
+Warwick                  51.23
+Amumu                    51.15
+Volibear                 50.86
+Gragas                   50.86
+Wukong                   50.77
+Hecarim                  50.73
+Sejuani                  50.68
+
+
+***************** Tier 3 *****************
+Xin Zhao                 50.32
+Zac                      50.28
+Talon                    49.61
+Evelynn                  49.4
+Kha'Zix                  49.36
+Lee Sin                  49.3
+Nunu                     49.23
+Kindred                  49.13
+Pantheon                 48.79
+Rumble                   48.67
+
+
+***************** Tier 4 *****************
+Fiddlesticks             48.45
+Master Yi                48.45
+Rengar                   48.44
+Udyr                     48.37
+Elise                    48.24
+Dr. Mundo                48.22
+Twitch                   47.96
+Trundle                  47.87
+Rek'Sai                  47.7
+Diana                    47.22
+Aatrox                   47.06
+Poppy                    46.91
+Olaf                     46.84
+Tryndamere               46.79
+
+
+***************** Tier 5 *****************
+Cho'Gath                 45.78
+
+
+***************** Tier 6 *****************
+Ekko                     44.64
+Nidalee                  43.41
+Camille                  42.91

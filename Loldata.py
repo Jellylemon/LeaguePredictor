@@ -11,7 +11,7 @@ class champ:
 
 
 #gives list of champions from highest to lowest winrate
-def getStats (role):
+def getStats (role, key):
     f = open(role + '.txt', 'w')
     pg = 1
     first = 1;
@@ -21,7 +21,9 @@ def getStats (role):
     while(1):
         url = "http://api.champion.gg/stats/role/"
         url += role
-        url += "/mostWinning?api_key=6ef435d5c6f792df69abd8be9bb8cdbc&page="
+        url += "/mostWinning?api_key="
+        url += key
+        url += "&page="
         url += (str(pg))
         url += "&limit="
 
@@ -71,8 +73,10 @@ def getStats (role):
         f.write("%-25s%s" % (Champions[i].name, str(Champions[i].winRate)))
         f.write("\n")
 
+key = input("Please enter your Developer API Key: ")
+choices = ['top', 'jungle', 'middle', 'adc', 'support']
+role = input("What role would you like to update?\nEnter: (top, jungle, middle, adc, support)\n")
+while role not in choices:
+	role = input("Please enter one of the following: (top, jungle, middle, adc, support)\n")
 
-
-role = input("What role would you like to update?\n")
-
-getStats(str(role))
+getStats(str(role), key)
