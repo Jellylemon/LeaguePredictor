@@ -1,0 +1,64 @@
+middle
+
+***************** Tier 1 *****************
+Galio                    56.93
+Anivia                   54.82
+Swain                    54.61
+
+
+***************** Tier 2 *****************
+Zilean                   54.41
+Kayle                    54.08
+Talon                    53.63
+Ziggs                    53.52
+Xerath                   53.37
+Ahri                     53.13
+Corki                    52.89
+Karthus                  52.83
+Annie                    52.82
+
+
+***************** Tier 3 *****************
+Jayce                    51.51
+Malzahar                 51.46
+Morgana                  51.1
+Vel'Koz                  50.89
+Mordekaiser              50.73
+Kennen                   50.7
+Gangplank                50.44
+Brand                    50.42
+Zed                      50.42
+Twisted Fate             50.31
+Ekko                     50.07
+Diana                    49.9
+Lux                      49.85
+Aurelion Sol             49.77
+Heimerdinger             49.73
+Orianna                  49.66
+
+
+***************** Tier 4 *****************
+Veigar                   49.59
+Fizz                     49.32
+Yasuo                    49.28
+Katarina                 48.64
+Viktor                   48.42
+Akali                    48.02
+Fiddlesticks             47.95
+Vladimir                 47.95
+LeBlanc                  47.7
+Cassiopeia               47.62
+Syndra                   47.57
+Lissandra                47.54
+Kassadin                 47.34
+
+
+***************** Tier 5 *****************
+Cho'Gath                 46.16
+Taliyah                  46.05
+Kog'Maw                  45.63
+
+
+***************** Tier 6 *****************
+Ryze                     43.96
+Azir                     42.38

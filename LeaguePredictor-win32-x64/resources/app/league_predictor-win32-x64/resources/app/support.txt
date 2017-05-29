@@ -1,0 +1,43 @@
+support
+
+***************** Tier 1 *****************
+Janna                    54.58
+Sion                     54.42
+Zilean                   53.56
+Sona                     52.9
+Blitzcrank               52.81
+Brand                    52.76
+
+
+***************** Tier 2 *****************
+Soraka                   52.57
+Nami                     52.57
+Vel'Koz                  51.86
+Zyra                     51.84
+Taric                    51.68
+Leona                    51.54
+Lulu                     50.89
+Karma                    50.82
+Nautilus                 50.8
+Veigar                   50.61
+
+
+***************** Tier 3 *****************
+Malzahar                 50.55
+Morgana                  50.3
+Alistar                  49.58
+Braum                    49.29
+Thresh                   49.07
+Miss Fortune             48.87
+
+
+***************** Tier 4 *****************
+Tahm Kench               48.6
+Annie                    48.32
+Fiddlesticks             48.03
+Lux                      47.32
+
+
+***************** Tier 5 *****************
+Taliyah                  46.47
+Bard                     44.62

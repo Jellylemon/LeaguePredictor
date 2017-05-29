@@ -1,0 +1,26 @@
+{
+  "name": "league_predictor",
+  "version": "0.1.0",
+  "description": "Predicts which team will win",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "",
+    "build": "electron-packager . LeaguePredictor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShanTheNaan/LeaguePredictor.git"
+  },
+  "author": "Shan Lalani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShanTheNaan/LeaguePredictor/issues"
+  },
+  "homepage": "https://github.com/ShanTheNaan/LeaguePredictor#readme",
+  "devDependencies": {
+    "electron": "^1.6.10",
+    "electron-builder": "^18.1.0",
+    "electron-packager": "^8.7.0"
+  }
+}
